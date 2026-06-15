@@ -12,6 +12,9 @@ Anggota:
 4. Ahmad Evander Ruizhi Xavier / 18223064
 5. Derick Amadeus Budiono / 18223090
 
+🔗 **Link Video YouTube**: https://youtu.be/cvklVtAg_jI
+🔗 **Link Website AgriClimate**: https://agriclimate-idul-adha-da13.streamlit.app/
+
 ### A. Deskripsi
 AgriClimate Idul Adha adalah dashboard analitik interaktif yang dirancang untuk menelusuri tren dan memvisualisasikan pengaruh cuaca terhadap fluktuasi harga bahan pangan pokok di Jawa Barat, khususnya pada periode kritis menjelang Hari Raya Idul Adha (Tahun 2017-2026).
 
