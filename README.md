@@ -30,7 +30,7 @@ Proyek ini dibangun untuk memberikan wawasan kuantitatif (insight) mengenai pola
 
 ### C. Technology Stack yang Digunakan
 - Notebook: .ipynb
-- Dataset: .csv
+- Dataset: .csv, .xslx
 - *Frontend & Dashboard*: Streamlit (Python *web-based app*).
 - *Data Ingestion* & Pengolahan Data: Python, pandas, numpy, API (portal open data cuaca/NASA POWER).
 - Visualisasi Data: plotly.express (untuk grafik interaktif), matplotlib, seaborn (untuk replika visualisasi statis presisi tinggi).
@@ -70,3 +70,7 @@ Proyek ini dibangun untuk memberikan wawasan kuantitatif (insight) mengenai pola
 ```
 
 ### E. *Screenshot* Website
+<img width="1837" height="816" alt="image" src="https://github.com/user-attachments/assets/f83dd84d-f5c6-4525-8abc-a32c9a219f13" />
+<img width="1800" height="692" alt="image" src="https://github.com/user-attachments/assets/b1f5bceb-61aa-4d8c-912d-a5729491e3e9" />
+<img width="1817" height="741" alt="image" src="https://github.com/user-attachments/assets/a624b2f3-691b-42f5-ad0e-17eca4deb7b8" />
+<img width="1830" height="590" alt="image" src="https://github.com/user-attachments/assets/cd59833e-530c-48ce-a24d-b4c8a4e442ea" />
