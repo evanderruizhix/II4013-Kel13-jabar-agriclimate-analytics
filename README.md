@@ -3,7 +3,7 @@
 ## AgriClimate Idul Adha
 *Website* ini dikembangkan dalam rangka memenuhi Tugas Besar II4013 Data Analytics.
  
-**Kelompok 1**
+**Kelompok 13**
 
 Anggota:
 1. Wilson / 18223012
