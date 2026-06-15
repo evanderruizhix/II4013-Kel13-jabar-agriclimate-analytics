@@ -1,0 +1,9 @@
+[theme]
+# Latar belakang utama (Putih)
+backgroundColor = "#FFFFFF"
+# Latar belakang sidebar (Hijau sangat muda/Mint)
+secondaryBackgroundColor = "#F0F7F4"
+# Warna teks utama (Abu-abu gelap/Hitam)
+textColor = "#2C3E2D"
+# Warna aksen utama (Hijau Tua untuk tombol, slider, dll)
+primaryColor = "#1E5631"
